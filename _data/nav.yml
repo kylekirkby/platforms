@@ -1,0 +1,24 @@
+search: true
+brand:
+    text: Linaro
+    image: Linaro-Logo_standard.svg
+    url: /
+pages:
+    - title: Home
+      url: /
+    - title: About
+      url: /about/
+    - title: Enterprise Reference Platform
+      options:
+          - text: Overview
+            url: /enterprise/
+          - text: Documentation
+            url: /documentation/
+          - text: Downloads
+            url: http://releases.linaro.org/reference-platform/enterprise/latest/?utm_source=platforms.linaro&utm_medium=submenu
+          - text: Support
+            url: /support/
+          - text: Forum
+            url: https://discuss.linaro.org/c/erp
+    - title: Community
+      url: /community/
