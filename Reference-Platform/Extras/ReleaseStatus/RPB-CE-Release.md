@@ -1,4 +1,8 @@
-## CE Reference Platform Release Status
+---
+layout: container-breadcrumb
+title: CE Reference Platform Release Status
+permalink: /reference-platform/extras/release-status/rpb-ce-release/
+---
 
 ### CE Release Schedule
 

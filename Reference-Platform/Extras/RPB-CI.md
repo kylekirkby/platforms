@@ -1,5 +1,8 @@
-# Reference Software Platform - CI
-
+---
+layout: container-breadcrumb
+title: Reference Software Platform - CI
+permalink: /reference-platform/extras/rpb-ci/
+---
 List of current CI jobs ([ci.linaro.org](https://ci.linaro.org/)) which are maintained as part of the Reference Software Platform lead project.
 
 

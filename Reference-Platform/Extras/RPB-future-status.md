@@ -1,3 +1,8 @@
+---
+layout: container-breadcrumb
+title: Reference Software Platform - CI
+permalink: /reference-platform/extras/rpb-future-status/
+---
 ## Reference Platform Release Status - 16.06 
 
 ### Release Schedule

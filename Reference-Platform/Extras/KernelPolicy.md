@@ -1,3 +1,8 @@
+---
+layout: container-breadcrumb
+title: Kernel Policy
+permalink: /reference-platform/extras/kernel-policy/
+---
 ## Why
 
 The reference platform kernel will provide a common tree collecting Linaro-relevant platform support and other features that are actively being upstreamed in order to support integration testing, provide platform support for the reference platform and track upstreaming efforts.  A single tree will be maintained that merges relevant topics.

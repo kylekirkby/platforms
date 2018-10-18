@@ -1,3 +1,8 @@
+---
+layout: container-breadcrumb
+title: Kernel Roadmap
+permalink: /reference-platform/extras/kernel-roadmap/
+---
 ## Introduction
 The Reference Platform Kernel (RPK) brings together WIP code that is still under review upstream in case that is useful.
 

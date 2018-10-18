@@ -1,5 +1,8 @@
-# 16.12 Release Notes - Enterprise Reference Platform
-
+---
+layout: container-breadcrumb
+title:  16.12 Release Notes - Enterprise Reference Platform
+permalink: /reference-platform/platforms/enterprise/16-12-release-notes/
+---
 ## Reference Platform Kernel
 
 - 4.9 based, including under-review topic branches to extend hardware platform support

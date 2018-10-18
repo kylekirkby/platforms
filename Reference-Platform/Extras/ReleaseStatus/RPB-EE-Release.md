@@ -1,5 +1,8 @@
-## EE Reference Platform Release Status
-
+---
+layout: container-breadcrumb
+title: EE Reference Platform Release Status
+permalink: /reference-platform/extras/release-status/rpb-ee-release/
+---
 ### EE Release Schedule
 
 | Date          | Checkpoint |

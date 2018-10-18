@@ -1,5 +1,8 @@
-# How to report a bug
-
+---
+layout: container-breadcrumb
+title: How to report a bug
+permalink: /reference-platform/extras/report-a-bug/
+---
 This document provides instructions for reporting bugs on both Consumer and Enterprise Edition boards along with
 the Reference Software Platform. Please read through the following sections for insight on where to go when reporting bugs.
 

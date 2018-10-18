@@ -1,21 +1,16 @@
-# IoT Reference Platform - Documentation
+---
+layout: container-breadcrumb
+title: IoT Reference Platform
+permalink: /reference-platform/platforms/iot/
+---
 
-A comprehensive guide to using the IoT Reference Platform. This guide is written by the Linaro team with community contributions and links to third-party content.
+The IoT reference platform’s goal is to provide an end to end open source secure pipeline from gateway devices to endpoints. For the deeply embedded use cases, a Zephyr RTOS baseline is provided to enable a series of hardware platforms, which ships with a rich developer SDK. The gateway is a variant of the Consumer reference platform based on Debian, leveraging the latest in cloud and container technology. Secure updates are not a mere afterthought, instead this software stack has been designed with security and maintainability in mind from day one.
 
-## Contents
+**Features:**
 
-- [Getting Started](GettingStarted/README.md)
-   - Learn more about the IoT Reference Platform, this is an ideal place to start.
-- [Installation](Installation/README.md)
-   - Installation and build instructions for a variety of your Reference Platform components
-- [Downloads](Downloads/README.md)
-   - Skip straight to your pre-built Reference Platform downloads
-- [Support](Support/README.md)
-   - From bug reports and current issues, to forum access and other useful resources, we want to help you find answers   
+- Zephyr RTOS with SDK for endpoints
+- Open Boot Firmware for endpoints
+- Debian builds for gateways
+- Secure update pipeline for all devices
 
 ***
-
-#### Resources
-
-- [Previous Releases](PreviousReleases/README.md)
-- [Document Contribution Policy](../../../ContributionPolicy.md)

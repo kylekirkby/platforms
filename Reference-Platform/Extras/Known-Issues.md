@@ -1,3 +1,8 @@
+---
+layout: container-breadcrumb
+title: Known Issues
+permalink: /reference-platform/extras/known-issues/
+---
 # Reference Platform Build - 16.06 Release - Known Issues
 
 ## Fixed Issues

@@ -1,3 +1,8 @@
+---
+layout: container-breadcrumb
+title: Feedback and Support
+permalink: /reference-platform/extras/feedback-and-support/
+---
 # Feedback and Support
 
 - [**96boards.org Community forum**](https://www.96boards.org/forums/)

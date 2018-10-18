@@ -1,5 +1,8 @@
-# License
-
+---
+layout: container-breadcrumb
+title: License
+permalink: /reference-platform/license/
+---
 Unless otherwise specified, everything in this repository is covered by the following licence:
 
 [![Creative Commons Licence](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)

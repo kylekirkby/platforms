@@ -1,4 +1,9 @@
-### Highlights for 16.06 release:
+---
+layout: container-breadcrumb
+title: Highlights
+permalink: /reference-platform/extras/highlights/
+---
+## Highlights for 16.06 release:
 
 ***
 
