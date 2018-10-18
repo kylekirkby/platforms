@@ -1,17 +1,23 @@
 search: true
+# Universal Nav Bar Toggle
+universal-nav: true
 brand:
-    text: Linaro
-    image: Linaro-Logo_standard.svg
+    text: Linaro ERP
+    image: reference-platforms-logo.png
     url: /
 pages:
-    - title: Home
-      url: /
     - title: About
       url: /about/
+    - title: Consumer
+      url: /consumer/
+    - title: Enterprise
+      url: /enterprise/
+    - title: IoT
+      url: /iot/
     - title: Enterprise Reference Platform
       options:
           - text: Overview
-            url: /enterprise/
+            url: /reference-platform/
           - text: Documentation
             url: /documentation/
           - text: Downloads
