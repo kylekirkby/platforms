@@ -11,7 +11,7 @@ mailchimp:
     unsubscribe-url: https://linaro.us3.list-manage.com/unsubscribe?u=14baaae786342d0d405ee59c2&id=af6cf590b0
 # Footer Newsletter toggle.
 newsletter:
-    enabled: true
+    enabled: false
 tags_enabled: true
 # Footer Image default is linaro sprinkle
 linaro-footer-image: reference-platforms-logo.png
@@ -36,7 +36,6 @@ home:
 # Jekyll social media site settings. Github, LinkedIn, Google+, Facebook and Youtube
 github_username: Linaro
 linkedin_username: 1026961
-google_plus_username: +LinaroOnAir
 facebook_username: LinaroOrg
 youtube_username: linaroorg
 twitter_username: linaroorg

@@ -2,8 +2,9 @@ search: true
 # Universal Nav Bar Toggle
 universal-nav: true
 brand:
-    text: Linaro ERP
-    image: reference-platforms-logo.png
+    image: 
+      enabled: true
+      name: platforms-logo-horizontal-black.png
     url: /
 pages:
     - title: About
