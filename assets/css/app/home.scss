@@ -1,0 +1,28 @@
+
+// Import the Open Sans Font for Home Page Sliders
+@font-face {
+    font-family: 'Open Sans';
+	src: url('../fonts/OpenSans-Regular.ttf');
+}
+//Smallest mobile view
+@media(max-width:767px){
+    h1.linaro-title{
+        font-size:38px;
+        font-weight: 600;
+    }
+    h2.linaro-sub-title{
+        font-size:30px;
+        font-weight:400;
+        margin-top: 50px;
+    }
+    #homepage-jumbotron {
+        padding: 20px;
+    }
+}
+span.line {
+    color: white;
+    font-family: 'Open Sans';
+}
+img.fade-in-one.img-responsive {
+    width: 200px;
+}
