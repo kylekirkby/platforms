@@ -1,15 +1,20 @@
-#Support Community
+---
+title: Support Community
+permalink: /community/
+layout: container-breadcrumb
+---
+
 Reference Platform Support Channels 
 
-##IRC
+## IRC
 
 [#linaro-enterprise](https://webchat.freenode.net/) and/or [#linaro-platforms](https://webchat.freenode.net/)
 
-##Mailinglist
+## Mailinglist
 [https://lists.linaro.org/mailman/listinfo/referenceplatform](https://lists.linaro.org/mailman/listinfo/referenceplatform)
 
-##Forum
+## Forum
 [Enterprise Reference Platform Forum](https://discuss.linaro.org/c/erp)
 
-##Bugs
+## Bugs
 [https://bugs.linaro.org/describecomponents.cgi?product=Reference%20Platforms](https://bugs.linaro.org/describecomponents.cgi?product=Reference%20Platforms)

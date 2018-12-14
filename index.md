@@ -1,3 +1,18 @@
+---
+layout: jumbotron-container
+title: Linaro Reference Platforms for the Arm Ecosystem
+jumbotron:
+    title: Reference Platforms for the Arm Ecosystem
+    image: /assets/images/reference-platforms-logo.png
+    background-image: /assets/images/background.jpg
+permalink: /
+---
+The Reference Platform is an end to end, open software stack. This product aims to showcase the latest available ARM optimizations, 
+through validation, on a series of hardware platforms. Each reference platform is focused on a unique segment, providing everything
+from firmware to middleware, while reducing overall complexity and time to market.
+
+*********
+
 Welcome to the official documentation for Linaro and the Reference Software Platform, these documents and instruction sets are written by the RPB and [96Boards](https://www.96boards.org) team at [Linaro](http://www.linaro.org) with community contributions and links to third-party content.
 
 ## Contents
