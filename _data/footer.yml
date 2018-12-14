@@ -1,0 +1,40 @@
+image: Linaro-Logo_standard.svg
+footer-image: /assets/images/Linaro-Sprinkle.png
+footer-image-url: /
+company-copyright-text: Linaro Limited
+columns:
+    - title: About
+      url: /about/
+      items:
+        - text: Linaro Overview
+          url : /about/
+        - text: Organisation
+          url : /work/
+        - text: Members
+          url : /members/
+        - text: Careers
+          url : /careers/
+    - title: Entreprise RP
+      url: /documentation/Reference-Platform/Platforms/Enterprise/
+      items:
+        - text: Documentation
+          url: /documentation/Reference-Platform/Platforms/Enterprise/Documentation/
+        - text: Downloads
+          url: http://releases.linaro.org/reference-platform/enterprise/latest/?utm_source=platforms.linaro&utm_medium=submenu
+        - text: Support
+          url: /documentation/Reference-Platform/Platforms/Enterprise/Documentation/Support/
+    - title: Consumer RP
+      url: /documentation/Reference-Platform/Platforms/Consumer/
+    - title: IoT RP
+      url: /documentation/Reference-Platform/Platforms/IoT/
+    - title: Community
+      url: /community/
+companylinks:
+    - name: Careers
+      url: /careers/
+    - name: Legal
+      url: /legal/
+    - name: Sitemap
+      url: /sitemap.xml
+    - name: Contact
+      url: /contact/

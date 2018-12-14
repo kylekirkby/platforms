@@ -1,0 +1,27 @@
+search: true
+# Universal Nav Bar Toggle
+universal-nav: true
+brand:
+    image: 
+      enabled: true
+      path: /assets/images/platforms-logo-horizontal-black.png
+    url: /
+pages:
+    - title: About
+      url: /about/
+    - title: Enterprise RP
+      options:
+          - text: Overview
+            url: /documentation/Reference-Platform/Platforms/Enterprise/
+          - text: Documentation
+            url: /documentation/Reference-Platform/Platforms/Enterprise/Documentation/
+          - text: Downloads
+            url: http://releases.linaro.org/reference-platform/enterprise/latest/?utm_source=platforms.linaro&utm_medium=submenu
+          - text: Support
+            url: /documentation/Reference-Platform/Platforms/Enterprise/Documentation/Support/
+    - title: Consumer RP
+      url: /documentation/Reference-Platform/Platforms/Consumer/
+    - title: IoT RP
+      url: /documentation/Reference-Platform/Platforms/IoT/
+    - title: Community
+      url: /community/
