@@ -4,28 +4,24 @@ universal-nav: true
 brand:
     image: 
       enabled: true
-      name: platforms-logo-horizontal-black.png
+      path: /assets/images/platforms-logo-horizontal-black.png
     url: /
 pages:
     - title: About
       url: /about/
-    - title: Consumer
-      url: /consumer/
-    - title: Enterprise
-      url: /enterprise/
-    - title: IoT
-      url: /iot/
-    - title: Enterprise Reference Platform
+    - title: Enterprise RP
       options:
           - text: Overview
-            url: /reference-platform/
+            url: /documentation/Reference-Platform/Platforms/Enterprise/
           - text: Documentation
-            url: /documentation/
+            url: /documentation/Reference-Platform/Platforms/Enterprise/Documentation/
           - text: Downloads
             url: http://releases.linaro.org/reference-platform/enterprise/latest/?utm_source=platforms.linaro&utm_medium=submenu
           - text: Support
-            url: /support/
-          - text: Forum
-            url: https://discuss.linaro.org/c/erp
+            url: /documentation/Reference-Platform/Platforms/Enterprise/Documentation/Support/
+    - title: Consumer RP
+      url: /documentation/Reference-Platform/Platforms/Consumer/
+    - title: IoT RP
+      url: /documentation/Reference-Platform/Platforms/IoT/
     - title: Community
       url: /community/

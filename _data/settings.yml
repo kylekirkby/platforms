@@ -75,7 +75,7 @@ blog:
                   url: url
 # Google Anayltics Setup
 google:
-    analytics: UA-16756069-6
+    analytics: UA-16756069-25
 # Shema.org settings used in the schema.html include.
 schema:
     enabled: false
@@ -97,7 +97,7 @@ schema:
             country_code: UK
 # Disqus Comments
 disqus:
-    enabled: true
+    enabled: false
     shortname: Linaro
 # Placeholder for Missing Images
-placeholder: placeholder.png
+placeholder: /assets/imaegs/placeholder.png
