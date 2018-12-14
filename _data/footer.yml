@@ -3,17 +3,17 @@ footer-image: /assets/images/Linaro-Sprinkle.png
 footer-image-url: /
 company-copyright-text: Linaro Limited
 columns:
-    - title: About
-      url: /about/
+    - title: 
+      url: 
       items:
-        - text: Linaro Overview
-          url : /about/
-        - text: Organisation
-          url : /work/
-        - text: Members
-          url : /members/
-        - text: Careers
-          url : /careers/
+      - text: About
+        url: /about/
+      - text: Consumer RP
+        url: /documentation/Reference-Platform/Platforms/Consumer/
+      - text: IoT RP
+        url: /documentation/Reference-Platform/Platforms/IoT/
+      - text: Community
+        url: /community/
     - title: Entreprise RP
       url: /documentation/Reference-Platform/Platforms/Enterprise/
       items:
@@ -23,18 +23,13 @@ columns:
           url: http://releases.linaro.org/reference-platform/enterprise/latest/?utm_source=platforms.linaro&utm_medium=submenu
         - text: Support
           url: /documentation/Reference-Platform/Platforms/Enterprise/Documentation/Support/
-    - title: Consumer RP
-      url: /documentation/Reference-Platform/Platforms/Consumer/
-    - title: IoT RP
-      url: /documentation/Reference-Platform/Platforms/IoT/
-    - title: Community
-      url: /community/
-companylinks:
+image: reference-platforms-logo.png
+company-links:
     - name: Careers
-      url: /careers/
+      url: https://www.linaro.org/careers/
     - name: Legal
-      url: /legal/
+      url: https://www.linaro.org/legal/
     - name: Sitemap
       url: /sitemap.xml
     - name: Contact
-      url: /contact/
+      url: https://www.linaro.org/contact/
