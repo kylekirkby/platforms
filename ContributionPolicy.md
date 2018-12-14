@@ -1,8 +1,3 @@
----
-title: Contribution Policy
-url: /contribution-policy/
-layout: container-breadcrumb
----
 ## Contribution Guidelines
 
 All documentation and guides in this repository are written by the 96Boards and/or Linaro teams at Linaro with community contributions and links to third-party content. 96Boards openly welcomes community contributions.
