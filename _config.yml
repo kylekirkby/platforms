@@ -1,0 +1,49 @@
+title: Linaro ERP
+description: |-
+  Linaro Reference Platform is an end to end, open software stack.
+  This product aims to showcase the latest available ARM optimizations,
+  through validation, on a series of hardware platforms.
+baseurl: "" # the subpath of your site, e.g. /blog
+# the base hostname & protocol for your site, e.g. http://example.com
+url: "https://platforms.linaro.org/"
+#Github Username
+github_username: Linaro
+# Blog Structure
+permalink: /blog/:title/
+blog_images_dir: assets/images/posts/
+# Use the Jumbo Jekyll Theme
+theme: jumbo-jekyll-theme
+# Files to be excluded from the Jekyll Build.
+exclude:
+    - .asset-cache
+    - .sass-cache
+    - _site
+# Jekyll Assets setup
+assets:
+  # Compress JS Assets - uses the uglifier 
+  compression: true
+  gzip: true
+  # Autoprefixer default settings
+  autoprefixer:
+      browsers: ["last 2 versions","> 5%","IE 9"]
+  # These are the paths to look for assets
+  sources:
+    - assets/js/
+    - assets/images/
+    - assets/images/posts/
+    - assets/css/
+plugins:
+ - jekyll-theme-assets-updated
+
+defaults:
+  - scope:
+        path: "Reference-Platform"
+    values:
+        layout: jumbotron-container
+        strip_title: true
+        permalink: /:path/:title/
+relative_links:
+  enabled:     true
+  collections: false
+kramdown:  
+  parse_block_html: true
