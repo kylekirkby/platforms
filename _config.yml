@@ -37,7 +37,7 @@ plugins:
 
 defaults:
   - scope:
-        path: "Reference-Platform"
+        path: "documentation"
     values:
         layout: jumbotron-container
         strip_title: true
