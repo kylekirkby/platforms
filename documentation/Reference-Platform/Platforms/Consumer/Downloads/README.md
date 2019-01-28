@@ -1,1 +1,0 @@
-# Linaro Reference Platforms - Consumer Downloads
