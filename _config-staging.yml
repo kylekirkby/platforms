@@ -3,7 +3,7 @@
 #
 #
 # URL of static site
-url: "https://site-test.linaro.org"
+url: "https://staging.platforms.linaro.org"
 # Destination folder
 destination: staging.platforms.linaro.org
 # Production boolean used in layouts / includes

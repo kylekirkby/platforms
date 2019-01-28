@@ -17,7 +17,8 @@ tags_enabled: true
 linaro-footer-image: reference-platforms-logo.png
 edit-on-github:
     enabled: true
-    repo: https://www.github.com/Linaro/erp-website
+    repo: https://www.github.com/Linaro/platforms-website
+    docs: https://www.github.com/Linaro/documentation
 # Settings for the home page
 home:
     #Content Background Image E.g. DeviceTree.org
