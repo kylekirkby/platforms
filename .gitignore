@@ -2,3 +2,6 @@ _site
 .sass-cache
 .jekyll-metadata
 .asset-cache
+documentation/
+staging.platforms.linaro.org
+production.platforms.linaro.org
