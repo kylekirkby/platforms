@@ -17,11 +17,11 @@ Welcome to the official documentation for Linaro and the Reference Software Plat
 
 ## Contents
 
-- [Reference Platform Home](Reference-Platform/README.md)
+- [Reference Platform Home](/documentation/Reference-Platform/)
    - Get started here with the Reference Software Platform
-- [Definitions](Definitions/README.md)
+- [Definitions](/documentation/Definitions/)
    - Linaro and 96Boards terminology
-- [Contribute to the Reference Platform](Reference-Platform/Contribute/README.md)
+- [Contribute to the Reference Platform](/documentation/Reference-Platform/Contribute/)
    - Learn how to contribute to Linaro and the Reference Software Platform
 
 ***
