@@ -2,6 +2,7 @@
 layout: jumbotron-container
 title: Linaro Reference Platforms for the Arm Ecosystem
 jumbotron:
+    triangle-divider: true
     title: Reference Platforms for the Arm Ecosystem
     image: /assets/images/reference-platforms-logo.png
     background-image: /assets/images/background.jpg
