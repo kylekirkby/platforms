@@ -34,16 +34,18 @@ assets:
     - assets/css/
 plugins:
  - jekyll-theme-assets-updated
-
 defaults:
   - scope:
         path: "documentation"
     values:
         layout: jumbotron-container
-        strip_title: true
         permalink: /:path/:title/
 relative_links:
   enabled:     true
   collections: false
 kramdown:  
   parse_block_html: true
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: false
