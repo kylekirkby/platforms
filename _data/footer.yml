@@ -20,7 +20,7 @@ columns:
         - text: Documentation
           url: /documentation/Reference-Platform/Platforms/Enterprise/Documentation/
         - text: Downloads
-          url: http://releases.linaro.org/reference-platform/enterprise/latest/?utm_source=platforms.linaro&utm_medium=submenu
+          url: https://releases.linaro.org/reference-platform/enterprise/latest/?utm_source=platforms.linaro&utm_medium=submenu
         - text: Support
           url: /documentation/Reference-Platform/Platforms/Enterprise/Documentation/Support/
 image: reference-platforms-logo.png
