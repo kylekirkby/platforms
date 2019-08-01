@@ -1,35 +1,44 @@
-image: Linaro-Logo_standard.svg
-footer-image: /assets/images/Linaro-Sprinkle.png
-footer-image-url: /
-company-copyright-text: Linaro Limited
-columns:
-    - title: 
-      url: 
-      items:
-      - text: About
-        url: /about/
-      - text: Consumer RP
-        url: /documentation/Reference-Platform/Platforms/Consumer/
-      - text: IoT RP
-        url: /documentation/Reference-Platform/Platforms/IoT/
-      - text: Community
-        url: /community/
-    - title: Entreprise RP
-      url: /documentation/Reference-Platform/Platforms/Enterprise/
-      items:
-        - text: Documentation
-          url: /documentation/Reference-Platform/Platforms/Enterprise/Documentation/
-        - text: Downloads
-          url: http://releases.linaro.org/reference-platform/enterprise/latest/?utm_source=platforms.linaro&utm_medium=submenu
-        - text: Support
-          url: /documentation/Reference-Platform/Platforms/Enterprise/Documentation/Support/
-image: reference-platforms-logo.png
+# Copyright text to be displayed at the very bottom of the footer
+copyright-text: Linaro Limited
+# Set this to false if you do not want the Linaro logo in the footer.
+linaro-branding: true
+# Social Media Icons Row
+social-media-icons: true
+# Display the contact details section
+display-contact-details: true
+# These links are displayed at the very bottom of the footer.
 company-links:
-    - name: Careers
-      url: https://www.linaro.org/careers/
     - name: Legal
       url: https://www.linaro.org/legal/
-    - name: Sitemap
-      url: /sitemap.xml
     - name: Contact
       url: https://www.linaro.org/contact/
+second-column:
+    title: Useful links
+    latest-posts: false
+    items:
+      - name: Enterprise RP
+        url : /documentation/Reference-Platform/Platforms/Enterprise/
+      - name: Enterprise RP Docs
+        url : /documentation/Reference-Platform/Platforms/Enterprise/Documentation/
+      - name: Enterprise RP Downloads
+        url : http://releases.linaro.org/reference-platform/enterprise/latest/?utm_source=platforms.linaro&utm_medium=submenu
+      - name: Enterprise RP Support
+        url : /documentation/Reference-Platform/Platforms/Enterprise/Documentation/Support/
+      - name: Consumer RP
+        url : http://localhost:4005/documentation/Reference-Platform/Platforms/Consumer/
+      - name: IoT RP
+        url : http://localhost:4005/documentation/Reference-Platform/Platforms/Consumer/
+# Custom Col on the right
+third-column:
+    title: Other Projects
+    items:
+      - name: 96Boards
+        url: https://www.96boards.org
+      - name: Linaro Connect
+        url: https://connect.linaro.org
+      - name: DeviceTree
+        url: https://www.devicetree.org
+      - name: OP-TEE
+        url: https://www.op-tee.org
+      - name: Linaro Developer Cloud
+        url: https://www.linaro.cloud
