@@ -7,7 +7,6 @@
 - title: Developer Cloud
   url: https://linaro.cloud
 - title: Projects
-  active: true
   options:
     - title: 96Boards.ai
       url: https://www.96boards.ai
