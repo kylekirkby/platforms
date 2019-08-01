@@ -2,11 +2,11 @@ Welcome to the official documentation for Linaro and the Reference Software Plat
 
 ## Contents
 
-- [Reference Platform Home](Reference-Platform/README.md)
+- [Reference Platform Home](https://github.com/Linaro/documentation/blob/master/Reference-Platform/README.md)
    - Get started here with the Reference Software Platform
-- [Definitions](Definitions/README.md)
+- [Definitions](https://github.com/Linaro/documentation/blob/master/Definitions/README.md)
    - Linaro and 96Boards terminology
-- [Contribute to the Reference Platform](Reference-Platform/Contribute/README.md)
+- [Contribute to the Reference Platform](https://github.com/Linaro/documentation/blob/master/Reference-Platform/Contribute/README.md)
    - Learn how to contribute to Linaro and the Reference Software Platform
 
 ***
