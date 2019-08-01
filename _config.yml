@@ -20,7 +20,7 @@ exclude:
     - _site
 # Jekyll Assets setup
 assets:
-  # Compress JS Assets - uses the uglifier 
+  # Compress JS Assets - uses the uglifier
   compression: true
   gzip: true
   # Autoprefixer default settings
@@ -43,9 +43,10 @@ defaults:
 relative_links:
   enabled:     true
   collections: false
-kramdown:  
+kramdown:
   parse_block_html: true
 titles_from_headings:
   enabled:     true
   strip_title: true
   collections: false
+include: ['_pages']
