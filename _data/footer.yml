@@ -25,9 +25,9 @@ second-column:
       - name: Enterprise RP Support
         url : /documentation/Reference-Platform/Platforms/Enterprise/Documentation/Support/
       - name: Consumer RP
-        url : http://localhost:4005/documentation/Reference-Platform/Platforms/Consumer/
+        url : /documentation/Reference-Platform/Platforms/Consumer/
       - name: IoT RP
-        url : http://localhost:4005/documentation/Reference-Platform/Platforms/Consumer/
+        url : /documentation/Reference-Platform/Platforms/IoT/
 # Custom Col on the right
 third-column:
     title: Other Projects
