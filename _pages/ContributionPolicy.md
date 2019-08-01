@@ -1,3 +1,10 @@
+---
+title:  Contribution Policy
+permalink: /contribution-policy/
+layout: flow
+description: >
+    Find out how you can contribute to this project.
+---
 ## Contribution Guidelines
 
 All documentation and guides in this repository are written by the 96Boards and/or Linaro teams at Linaro with community contributions and links to third-party content. 96Boards openly welcomes community contributions.

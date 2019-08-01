@@ -1,10 +1,12 @@
 ---
 title: Support Community
 permalink: /community/
-layout: container-breadcrumb
+layout: flow
+description: >
+    Find out how you can get support from our community.
 ---
 
-Reference Platform Support Channels 
+Reference Platform Support Channels
 
 ## IRC
 
